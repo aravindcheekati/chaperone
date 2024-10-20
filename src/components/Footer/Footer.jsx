@@ -17,14 +17,25 @@ const Footer = () => {
         <div className="footer-social-media">
           <h2>Follow us On</h2>
           <ul>
-            <li>
-              <a href="#">F</a>
+            <li className="social-media-items"> 
+              <a href="#">
+                <i className="ri-instagram-line"></i>
+              </a>
             </li>
-            <li>
-              <a href="#">F</a>
+            <li className="social-media-items">
+              <a href="#">
+                <i className="ri-facebook-circle-fill"></i>
+              </a>
             </li>
-            <li>
-              <a href="#">F</a>
+            <li className="social-media-items">
+              <a href="#">
+                <i className="ri-youtube-fill"></i>
+              </a>
+            </li>
+            <li className="social-media-items">
+              <a href="#">
+                <i className="ri-linkedin-box-fill"></i>
+              </a>
             </li>
           </ul>
         </div>

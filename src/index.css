@@ -600,6 +600,15 @@ body {
   color: #838383;
 }
 
+.social-media-items>a {
+  text-decoration: none;
+}
+
+.social-media-items>a>i {
+  font-size: 30px;
+  color: #165315;
+}
+
 /* Product Details Page Design*/
 
 .product_details_wrapper {
@@ -785,6 +794,11 @@ body {
 /* Responsive Design for Mobile Devices */
 
 @media screen and (max-width: 767px) {
+
+  .filter-aside {
+    display: none;
+  }
+
   .products-list {
     display: grid;
     grid-template-columns: 1fr;
