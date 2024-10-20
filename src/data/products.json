@@ -1,0 +1,311 @@
+[
+    {
+        "id": 1,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 2,
+        "name": "Sun Flower Plant",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 3,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 4,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 5,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 6,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 7,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 8,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 9,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 10,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 11,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 12,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 13,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 14,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 15,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 16,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 17,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 18,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 19,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 20,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 21,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 22,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 23,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 24,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 25,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 26,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 27,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 28,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },{
+        "id": 29,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-two_kkrfvv.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 30,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321829/plant-three_zebknw.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    },
+    {
+        "id": 31,
+        "name": "Monsterra",
+        "description": "Indoor Plant, Low maintenance",
+        "thumbnail": "https://res.cloudinary.com/dgpzptsuh/image/upload/v1729321828/plant-one_fsmv4a.jpg",
+        "rating": 4.9,
+        "price": 359,
+        "discountPrice": 299,
+        "isFavourite": false
+    }
+]
